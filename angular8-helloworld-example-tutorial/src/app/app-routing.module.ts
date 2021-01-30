@@ -7,7 +7,7 @@ const routes: Routes = [
 {path: 'login', component: LoginComponent},
 {path: '', component: LoginComponent},
 {path: 'hello-world', component: HelloWorldComponent},
-**  {path: 'logout', component: LoginComponent},**
+{path: 'logout', component: LoginComponent},
 ];
 
 @NgModule({
